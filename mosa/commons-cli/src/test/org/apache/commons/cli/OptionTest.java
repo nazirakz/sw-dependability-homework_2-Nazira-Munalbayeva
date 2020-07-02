@@ -7,7 +7,7 @@ import static org.evosuite.runtime.EvoAssertions.*;
 import org.apache.commons.cli.Option;
 import org.junit.runner.RunWith;
 
-public class OptionTest {
+public class OptionTest { 
 	
 	/**
 	 * 
